@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unique-sachin" alt="unique-sachin" /></a> </p>
-
 - 🌱 I’m currently learning **Redux, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://unique-sachin.github.io/](https://unique-sachin.github.io/)
