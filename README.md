@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Redux, NextJS**
 
-- 👨‍💻 All of my projects are available at [https://unique-sachin.github.io/](https://unique-sachin.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://unique-sachin.github.io)
 
 - 💬 Ask me about **ReactJS, TypeScript, JavaScript, CSS**
 
 - 📫 How to reach me **sachin.mern@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link](https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link)
 
 - ⚡ Fun fact **Don't ask me DSA**
 
