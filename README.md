@@ -3,6 +3,7 @@
 
 
 <h3 align="center">A Full Stack Web Developer from INDIA with a passion for developing scalable web applications and working across new tech stacks. Looking forward to joining an organization to grow my skill while contributing to a positive outcome.</h3>
+<br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
