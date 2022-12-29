@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sachin.mern@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link)
+- 📄 Know about skills in my [RESUME](https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link)
 
 - ⚡ Fun fact **Don't ask me DSA**
 
