@@ -17,7 +17,7 @@
 
 - 📄 Know about skills in my [RESUME](https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link)
 
-- ⚡ Fun fact **Don't ask me DSA**
+- ⚡ Fun fact **I'm Introvert but I love Collaboration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
