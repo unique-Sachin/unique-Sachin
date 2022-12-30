@@ -39,6 +39,7 @@
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unique-sachin&theme=radical" alt="unique-sachin" height="255px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=unique-sachin&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="Samruddhi" height="255px" width="47%" />
 <div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unique-sachin&show_icons=true&locale=en&layout=compact" alt="unique-sachin" /><br></p>
 <br>
@@ -48,6 +49,6 @@
 <br>
  -->
   <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="Samruddhi" height="240px" width="800px" />
+  
 <!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=unique-sachin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
 <div>
