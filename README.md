@@ -48,6 +48,6 @@
 <br>
  -->
   <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="Samruddhi" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=unique-sachin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="Samruddhi" height="255px" width="95%" />
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=unique-sachin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
 <div>
