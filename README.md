@@ -47,6 +47,7 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unique-sachin&" alt="unique-sachin" /></p>
 <br>
  -->
-<!--   <div> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="unique-sachin" height="255px" width="95%" />
-<!-- <div> -->
+  <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-sachin&theme=radical&langs_count=8" alt="Samruddhi" height="240px" width="800px" />
+<!--   <img align="right" src="https://activity-graph.herokuapp.com/graph?username=unique-sachin&theme=gruvbox&hide_border=true&area=true" height="255px" width="70%"/> -->
+<div>
