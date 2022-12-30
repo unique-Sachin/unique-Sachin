@@ -4,7 +4,7 @@
 
 <h3 align="center">A Full Stack Web Developer from INDIA with a passion for developing scalable web applications and working across new tech stacks. Looking forward to joining an organization to grow my skill while contributing to a positive outcome.</h3>
 <br>
-<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="_blank" rel="noreferrer"><img align="right" alt="coding" width="350" border-radius="5px" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
+<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="_blank" rel="noreferrer"><img align="right" alt="coding" width="350" style="border-radius:5px" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
 
