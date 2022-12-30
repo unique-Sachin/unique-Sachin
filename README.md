@@ -4,7 +4,7 @@
 
 <h3 align="center">A Full Stack Web Developer from INDIA with a passion for developing scalable web applications and working across new tech stacks. Looking forward to joining an organization to grow my skill while contributing to a positive outcome.</h3>
 <br>
-<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="blank"><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
+<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="_blank"><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
 
@@ -22,12 +22,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/unique-sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="unique-sachin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-mishra-a790bb174" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20889939" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20889939" height="30" width="40" /></a>
-<a href="https://codesandbox.com/unique-sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="unique-sachin" height="30" width="40" /></a>
-<a href="https://instagram.com/im_unique_sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_unique_sachin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/unique_sachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unique_sachin" height="30" width="40" /></a>
+<a href="https://codepen.io/unique-sachin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="unique-sachin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-mishra-a790bb174" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-mishra-a790bb174" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20889939" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20889939" height="30" width="40" /></a>
+<a href="https://codesandbox.com/unique-sachin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="unique-sachin" height="30" width="40" /></a>
+<a href="https://instagram.com/im_unique_sachin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_unique_sachin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/unique_sachin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unique_sachin" height="30" width="40" /></a>
 </p>
 
 
