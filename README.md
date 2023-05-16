@@ -4,7 +4,7 @@
 
 <h3 align="center">A Full Stack Web Developer from INDIA with a passion for developing scalable web applications and working across new tech stacks. Looking forward to joining an organization to grow my skill while contributing to a positive outcome.</h3>
 <br>
-<a href="https://app.daily.dev/sachinmishra"><img src="https://api.daily.dev/devcards/58aaf737a1034a24a20e85da480eb4f7.png?r=ts4" width="400" alt="Sachin Mishra's Dev Card"/></a>
+<a href="https://app.daily.dev/sachinmishra"><img src="https://api.daily.dev/devcards/58aaf737a1034a24a20e85da480eb4f7.png?r=ts4" width="300" alt="Sachin Mishra's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
 
 - 🌱 I’m currently learning **Redux, NextJS**
