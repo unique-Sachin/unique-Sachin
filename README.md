@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sachin.mern@gmail.com**
 
-- 📄 Know about skills in my [RESUME]([https://drive.google.com/file/d/1YCICx_2YJ6xptAkKvI03bocGVa8oM-j7/view?usp=share_link](https://drive.google.com/file/d/13GHldJHCALYpztfhwywX5u5d4WjyvXLg/view?usp=sharing)])
+- 📄 Know about skills in my [RESUME](https://drive.google.com/file/d/13GHldJHCALYpztfhwywX5u5d4WjyvXLg/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
